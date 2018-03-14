@@ -1,2 +1,8 @@
-该
-来访问它。项目t.
+该项目是在学习React的时候制作的一个及时聊天WebApp。
+前端使用React Redux React-Router 配合UI库antd-mobile来实现
+后端使用 nodejs 的Express库 配合一些常用的中间件来完成开发
+使用mongoose来连接数据库
+数据库使用MongoDB
+使用socket.io 进行实时通信
+SSR使用React16提供的renderToNodeStream
+
